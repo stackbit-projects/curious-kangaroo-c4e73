@@ -85,3 +85,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://curious-kangaroo-c4e73.netlify.app'
